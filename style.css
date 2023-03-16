@@ -1,0 +1,129 @@
+body{
+	background-color:#F3F1FF;
+}
+/*--------------------------------------------------head----------------------------------*/
+.navbar img{
+width: 51px;
+height: 51px;
+}
+.navbar{
+	background-color: #562EFF;
+}
+.navbar span{
+
+font-weight: 500;
+font-size: 24px;
+}
+
+/*-------------------------------------------------- main----------------------------------*/
+main{
+	background-color:#FFFFFF;
+	width: 870px;
+	border-radius: 5px;
+}
+/*-------top player------*/
+
+.top-player h1
+{
+
+font-size: 24px;
+color: #562EFF;
+}
+
+.player_details img{
+	width: 56px;
+height: 56px;
+}
+
+.player{
+	float: left;
+}
+.player_name{
+	font-weight: 500;
+font-size: 18px;
+}
+
+.top_blog img{
+	width: 177px;
+height: 117px;
+}
+#blog_title{
+	font-weight: 500;
+font-size: 20px;
+color:black;
+}
+.top_blog p{
+	font-weight: 400;
+font-size: 16px;
+color:gray;
+}
+
+/*-------------------------------------------------- footer ----------------------------------*/
+.card-img-top{
+	height: auto;
+width: 224px;
+
+}
+
+
+.col{
+	#background-color:gray;
+	height: auto;
+width: 270px;
+border-radius: 0px;
+
+margin: 0px;
+
+
+}
+.card-row{
+	background-color:white;
+	height: 362px;
+width: 870px;
+left: 285px;
+top: 830px;
+border-radius: 5px;
+
+}
+.card{
+	border:none;
+	border-radius:10px;
+	box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-title{
+
+font-weight: 500;
+font-size: 20.0336px;
+
+}
+.card-text{
+	color: #ED6B4F;
+}
+
+
+.images{
+	width:250px;
+}
+
+
+.footer_end{
+	color:#A2A2A2;
+    font-weight: 400;
+font-size: 14.6913px;
+
+}
+
+.footer_end_right_icon{
+background: #FFE4E8;
+border-radius: 14.6913px;
+color:#FF4A60;
+}
+.footer_end_right_icon img{
+   height: 20.148534774780273px;
+width: 20.033588409423828px;
+
+border-radius: 0px;
+
+}
+
